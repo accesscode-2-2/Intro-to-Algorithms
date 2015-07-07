@@ -15,15 +15,19 @@ Now that the fundamentals are out of the way, Let's take a look at an exanple of
 
 ###Example Problem: 
 *How does one get to see the film "Quantum of Solace"?*
-  
+
+Let's start by creating a list of steps that we would take to solve this sepcific problem.
+
 ####Solution:
 ``` 
 	Go to the cinema
-    Buy a ticket
-    Watch the film
-    Go home again
+	Buy a ticket
+	Watch the film
+	Go home again
 ```
-Often times when coming up with a solution to a problem, we need to also put in checks that test certain cases that we know  might arise frequently. For example, how would our algorithm change if we took into account the possibility that for whatever reason the film "Quantum of Solace" was not showing at the cinema?
+We have just created an algorithm to solve our problem.
+
+However, often times when coming up with an algorithm as a solution to a problem, we need to also put in checks that test certain cases that we think might arise frequently. For example, how would our algorithm change if we took into account the possibility that for whatever reason the film "Quantum of Solace" was not showing at the cinema?
 
 Let's take a look at an example of a more complete algorithm, which takes into account a couple of test cases, that can be applied to the same problem.
 
